@@ -85,6 +85,10 @@ Database connected successfully
 - 404 Not Found: For non-existing resources.
 - 500 Internal Server Error: For server errors.
 
+### Working API on Postman 
+
+![스크린샷 2024-07-13 020203](https://github.com/user-attachments/assets/c865f1b5-9d10-465e-a6d3-26e32e274fc6)
+
 ## Contributing
 
 Contributions are welcome! Please submit a pull request or open an issue to discuss what you would like to change.
